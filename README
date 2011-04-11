@@ -1,0 +1,9 @@
+2drubik: Two dimensional web rubik's cube
+=========================================
+
+Ever had a hard time solving rubik's cube?  Ever wanted
+to just hit the reset button and start over rather than
+disassembling the cube?
+
+Click on a node, and use the arrow keys to move rows and cols.
+If you get stuck, just hit [f5] to refresh the page.
